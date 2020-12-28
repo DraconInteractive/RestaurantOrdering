@@ -1,0 +1,20 @@
+﻿{
+    "sdaf":{
+        "icon":"A-Button-Green",
+        "progress":0.2,
+        "reward":{
+            "name":"sdfg",
+            "icon":"Alarm-Icon",
+            "amount":2
+        }
+    },
+    "taskname_2":{
+        "icon":"Ability-Icon",
+        "progress":0.4,
+        "reward":{
+            "name":"rewardname_2",
+            "icon":"Angry-Smiley-Outline",
+            "amount":3
+        }
+    }
+}

@@ -1,0 +1,19 @@
+﻿{
+    "Peter":{
+        "pips":0,
+        "level":1,
+        "inventory":
+        [
+            "Item 1": {
+                "level":1,
+                "rarity":"Common",
+                "icon":"Sword-Icon"
+            },
+            "Item 2": {
+                "level":2,
+                "rarity":"Legendary",
+                "icon":"Amulet-Icon"
+            }
+        ]
+    }
+}
